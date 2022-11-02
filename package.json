@@ -13,6 +13,6 @@
   "author": "Mart - howtoautomate.in.th",
   "license": "ISC",
   "dependencies": {
-    "mountebank": "^2.1.2"
+    "mountebank": "^2.8.1"
   }
 }
